@@ -1,5 +1,9 @@
 ﻿using System;
 using System.IO;
+/*
+    Вариант 7
+    Подсчёт количества нечётных элементов массива чисел 
+ */
 namespace _Vectors {
     class Program {
         static void Main(string[] args) {

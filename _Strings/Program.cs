@@ -1,5 +1,9 @@
 ﻿using System;
 using System.IO;
+/*
+    Вариант 7
+    Вывод количества слов в файле длиннее заданного размера
+ */
 namespace _Strings {
     class Program {
         static void Main(string[] args) {

@@ -1,6 +1,9 @@
 ﻿using System;
 using System.IO;
-
+/*
+    Вариант 7
+    Проверка матрицы на симметричность относительно главное диагонали 
+ */
 namespace _Matrix {
     class Program {
         static void Main(string[] args) {
