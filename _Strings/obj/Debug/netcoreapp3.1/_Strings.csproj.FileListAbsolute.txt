@@ -1,0 +1,12 @@
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\bin\Debug\netcoreapp3.1\_Strings.exe
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\bin\Debug\netcoreapp3.1\_Strings.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\bin\Debug\netcoreapp3.1\_Strings.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\bin\Debug\netcoreapp3.1\_Strings.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\bin\Debug\netcoreapp3.1\_Strings.dll
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\bin\Debug\netcoreapp3.1\_Strings.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\obj\Debug\netcoreapp3.1\_Strings.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\obj\Debug\netcoreapp3.1\_Strings.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\obj\Debug\netcoreapp3.1\_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\obj\Debug\netcoreapp3.1\_Strings.dll
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\obj\Debug\netcoreapp3.1\_Strings.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Strings\obj\Debug\netcoreapp3.1\_Strings.genruntimeconfig.cache

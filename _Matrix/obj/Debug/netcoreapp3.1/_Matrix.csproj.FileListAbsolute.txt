@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\bin\Debug\netcoreapp3.1\_Matrix.exe
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\bin\Debug\netcoreapp3.1\_Matrix.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\bin\Debug\netcoreapp3.1\_Matrix.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\bin\Debug\netcoreapp3.1\_Matrix.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\bin\Debug\netcoreapp3.1\_Matrix.dll
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\bin\Debug\netcoreapp3.1\_Matrix.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.dll
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_2\_Matrix\obj\Debug\netcoreapp3.1\_Matrix.genruntimeconfig.cache
