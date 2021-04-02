@@ -18,9 +18,9 @@ namespace _Matrix {
             for (int i = 0; i < size && !error; i++)
                 for (int j = 0; j < size && !error; j++)
                     error = array[i, j] != array[j, i];
-
+            
             WriteDataToFile(error);
-            Console.WriteLine(error);
+            Console.WriteLine(!error);
         }
         public static void WriteDataToFile(bool error) {
             string path = Environment.CurrentDirectory + @"\output.txt";
